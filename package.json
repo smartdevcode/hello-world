@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/smartdevcode/hello-world/issues"
   },
-  "homepage": "https://github.com/smartdevcode/hello-world#readme"
+  "homepage": "https://github.com/smartdevcode/hello-world#readme",
+  "publishConfig": {
+    "@smartdevcode:registry": "https://npm.pkg.github.com"
+  }
 }
